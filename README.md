@@ -1,5 +1,4 @@
 # microfrontend_host
-# microfrontend_host
 Frontend Project with Module Federation
 This project demonstrates how to use MF to build a modular and scalable frontend application.
 
